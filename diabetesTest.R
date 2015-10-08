@@ -2,6 +2,8 @@ Description: R package SloDiabetes
 
 
 library(caret)
+library(devtools)
+install_github("plyr", "hadley")
 install.packages('httr')
 
 data <- readRDS("sloDiabetes_NA_6,1.rds")
