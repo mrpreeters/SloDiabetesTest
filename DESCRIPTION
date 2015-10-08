@@ -1,0 +1,8 @@
+Package: diabetesTest
+Version: 1.0
+Date: 2015-10-08
+Title: Slovenian Diabetes R package
+Author: optimist2.fzv.um.si
+Description: R package for slovenian diabetes
+License: GPL (>= 3)
+URL: http://optimist2.fzv.um.si
