@@ -1,3 +1,6 @@
+Description: R package SloDiabetes
+
+
 library(caret)
 install.packages('httr')
 
