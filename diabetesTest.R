@@ -1,4 +1,5 @@
 library(caret)
+install.packages('httr')
 
 data <- readRDS("sloDiabetes_NA_6,1.rds")
 data$Class <- as.factor(data$Class) 
